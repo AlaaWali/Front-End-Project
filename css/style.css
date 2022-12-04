@@ -1083,6 +1083,36 @@ li.list-group-item {
   .about-corona p {
     font-size: 15px;
   }
+        .lists ul h5 {
+          font-size: 8px;
+        }
+    
+        .lists ul p {
+          font-size: 10px;
+        }
+    
+        .buttons button {
+          padding: 0;
+          font-size: 12px;
+        }
+    
+        .lists .useful-list {
+          margin-left: 10%;
+        }
+    
+        .footer-end span {
+          font-weight: normal;
+        }
+    
+        .footer-end p {
+          font-size: 12px;
+    
+        }
+    
+        .disclaimer {
+          font-size: 12px;
+    
+        }
 }
 
 
